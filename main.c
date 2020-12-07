@@ -17,7 +17,11 @@ Security Patch()
 
 Security Patch()
 {
+<<<<<<< HEAD
  //This is from public branch
+=======
+ //This is from private branch
+
 }
 
 
